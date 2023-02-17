@@ -1,0 +1,2 @@
+# BetterWeapons
+minecraft server plugin

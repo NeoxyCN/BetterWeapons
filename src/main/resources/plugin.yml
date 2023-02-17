@@ -1,0 +1,7 @@
+name: BetterWeapons
+version: '${project.version}'
+main: me.neoxy.betterweapons.BetterWeapons
+api-version: 1.19
+authors: [ Neoxy ]
+description: minecraft server plugin
+website: https://github.com/NeoxyCN/BetterWeapons
